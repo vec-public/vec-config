@@ -1,5 +1,5 @@
 # Current Status
-CI.Build.Status.Image.Placeholder
+[![Build Status](https://travis-ci.com/vec-public/vec.config.svg?branch=main)](https://travis-ci.com/vec-public/vec.config)
 
 # 要求
 1. 换行符为LF
