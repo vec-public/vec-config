@@ -1,0 +1,8 @@
+os: linux
+
+notifications:
+  recipients:
+    - laper32@outlook.com
+  
+  on_success: never
+  on_failure: always
