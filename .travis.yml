@@ -6,3 +6,5 @@ notifications:
   
   on_success: never
   on_failure: always
+script:
+  - echo "retrived message"
