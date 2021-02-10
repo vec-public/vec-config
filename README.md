@@ -1,5 +1,5 @@
 # Current Status
-[![Build Status](https://travis-ci.com/vec-public/vec.config.svg?branch=main)](https://travis-ci.com/vec-public/vec.config)
+[![Build Status](https://travis-ci.com/vec-public/vec.config.general.svg?branch=main)](https://travis-ci.com/vec-public/vec.config.general)
 
 # 要求
 1. 换行符为LF
